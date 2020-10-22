@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 Reach me via <a href="https://line.me/ti/p/~dennisheraldi/">LINE</a>
+- 📫 Reach me via <a href="https://line.me/ti/p/~dennisheraldi/">LINE</a> | <a href="https://www.linkedin.com/in/fachry-d-4ab68210a/">LinkedIn</a>
 - 😄 Pronouns: he/him
 
 <!--
