@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <br>💬 My name is Fachry Dennis Heraldi, you can call me Dennis.<br>
-<br>🌱 I’m currently studying electrical engineering and informatics at <b>Sekolah Teknik Elektro dan Informatika (STEI), Institut Teknologi Bandung</b> as a first year student.<br>
+<br>🌱 Informatics Student at <b>Institut Teknologi Bandung</b><br>
 <br>📫 Reach me via <a href="https://line.me/ti/p/~dennisheraldi/">LINE</a> | <a href="https://www.linkedin.com/in/fachry-d-4ab68210a/">LinkedIn</a> <br>
 
 
