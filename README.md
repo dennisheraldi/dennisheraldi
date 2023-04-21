@@ -1,8 +1,9 @@
-### Hello there! 👋
+## Hello there! 👋
 
-<br>💬 My name is Fachry Dennis Heraldi, just call me Dennis.<br>
-<br>🌱 Informatics Student at <b>Institut Teknologi Bandung</b><br>
+<br>😁 I am Dennis<br>
+<br>👨‍💻 an Informatics Student at <b>Institut Teknologi Bandung</b><br>
 <br>📫 Reach me via <a href="https://line.me/ti/p/~dennisheraldi/">LINE</a> | <a href="https://www.linkedin.com/in/fachry-d-4ab68210a/">LinkedIn</a> <br>
+
 
 
 <!--
