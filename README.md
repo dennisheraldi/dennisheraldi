@@ -1,8 +1,8 @@
 ## Hello there! 👋
 
 <br>😁 I am Dennis<br>
-<br>👨‍💻 an Informatics Student at <b>Institut Teknologi Bandung</b><br>
-<br>📫 Reach me via <a href="https://line.me/ti/p/~dennisheraldi/">LINE</a> | <a href="https://www.linkedin.com/in/fachry-d-4ab68210a/">LinkedIn</a> <br>
+<br>👨‍💻 Software Engineer with main focus on Backend Development<br>
+<br>📫 Reach me via <a href="https://www.linkedin.com/in/fachry-d-4ab68210a/">LinkedIn</a> <br>
 
 
 
